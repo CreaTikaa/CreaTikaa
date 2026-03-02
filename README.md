@@ -21,5 +21,4 @@ Games you shouldn't play : The Coffin of Andy and Leyley
 Discord : creaa_
 ```
 
-<img align="center" src="https://github.com/user-attachments/assets/d6249619-059c-40c5-9823-75de5fb5af04" alt="Rest well, Reze" width="auto" />
-
+<img align="center" src="https://github.com/user-attachments/assets/4ce45cc7-3949-4305-a040-c0f0785fb559" alt="Ellie" width="auto" />
