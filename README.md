@@ -1,7 +1,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="420" />
+<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="460" />
 
 ```yaml
 crea@goat
