@@ -1,12 +1,10 @@
-
-
-```zsh
-> neofetch
-```
-
-<video src="https://github.com/user-attachments/assets/9ad7bc4f-4329-4025-a579-a31b92d66259" width="460" autoplay loop playsinline></video>
-  
-<pre>
+<table>
+  <tr>
+    <td valign="top">
+<video align="left" src="https://github.com/user-attachments/assets/8da81bbb-40b1-42c8-95ba-4470f9c34bbf" alt="Frieren" width="320" /> 
+</td>
+    <td valign="top">
+      <pre>  
 crea@goat
 -------------------------
 <span style="color: #58a6ff; font-weight: bold;">OS :</span> Debian 12 x86_64
@@ -22,5 +20,6 @@ crea@goat
 <span style="color: #58a6ff; font-weight: bold;">Games you shouldn't play :</span> The Coffin of Andy and Leyley 
 <span style="color: #58a6ff; font-weight: bold;">Discord :</span> creaa_
 </pre>
-
-
+    </td>
+  </tr>
+</table>
