@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/213da13b-ce38-4481-b8da-006393456744" alt="Rest well Reze" width="420" />
+<img align="left" src="https://github.com/user-attachments/assets/213da13b-ce38-4481-b8da-006393456744" alt="Rest well Reze" width="360" />
 
 ```yaml
 crea@goat
