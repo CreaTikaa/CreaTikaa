@@ -3,13 +3,9 @@
 ```zsh
 > neofetch
 ```
-<table>
-  <tr>
-    <td valign="top">
-      <video src="https://github.com/user-attachments/assets/9ad7bc4f-4329-4025-a579-a31b92d66259" width="460" autoplay loop playsinline></video>
-    </td>
-    <td valign="top">
 
+<video src="https://github.com/user-attachments/assets/9ad7bc4f-4329-4025-a579-a31b92d66259" width="460" autoplay loop playsinline></video>
+  
 <pre>
 crea@goat
 -------------------------
@@ -27,6 +23,4 @@ crea@goat
 <span style="color: #58a6ff; font-weight: bold;">Discord :</span> creaa_
 </pre>
 
-</td>
-</tr>
-</table>
+
