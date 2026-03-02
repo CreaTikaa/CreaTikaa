@@ -9,8 +9,7 @@
 crea@goat
 -------------------------
 OS : Debian 12 x86_64
-Term : kitty
-Shell : zsh
+Term & Shell : kitty / zsh
 Pronouns : The/Goat
 Location : France
 Things i'm almost decent at : Forensics, Steg, Misc, Rev, Osint
@@ -21,5 +20,5 @@ Hobbies : Sports & Esports, Hitting people and being hit with human bones (muay 
 Games you should play : TLOU, NieR, Counter Strike
 Games you shouldn't play : The Coffin of Andy and Leyley 
 Discord : creaa_
-</pre>
+
 
