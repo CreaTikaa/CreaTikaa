@@ -3,13 +3,10 @@
 ```zsh
 > neofetch
 ```
-
-<video src="https://github.com/user-attachments/assets/9ad7bc4f-4329-4025-a579-a31b92d66259" width="320" align="left" autoplay loop playsinline></video>
-
 <table>
   <tr>
     <td valign="top">
-      <video src="https://github.com/user-attachments/assets/9ad7bc4f-4329-4025-a579-a31b92d66259" width="320" autoplay loop playsinline></video>
+      <video src="https://github.com/user-attachments/assets/9ad7bc4f-4329-4025-a579-a31b92d66259" width="460" autoplay loop playsinline></video>
     </td>
     <td valign="top">
 
