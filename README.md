@@ -1,6 +1,7 @@
 ```zsh
 > neofetch
 ```
+<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="370" />
 
 ```yaml
 crea@goat
@@ -20,6 +21,5 @@ Games you shouldn't play : The Coffin of Andy and Leyley
 Discord : creaa_
 ```
 
-
-<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="400" />
+<img align="center" src="https://github.com/user-attachments/assets/d6249619-059c-40c5-9823-75de5fb5af04" alt="Rest well, Reze" width="auto" />
 
