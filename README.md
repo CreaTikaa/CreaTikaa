@@ -1,8 +1,9 @@
-```zsh
+![tlou](https://github.com/user-attachments/assets/16e92cc4-e316-4bae-ac53-714e0f1dbd69)```zsh
 > neofetch
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/8da81bbb-40b1-42c8-95ba-4470f9c34bbf" alt="Frieren" width="520" /> 
+<img align="left" src="https://github.com/user-attachments/assets/e26e4675-d9f1-4220-9e33-db6196f4c1ea" alt="Frieren" width="520" />
+ 
 
 ```yaml
 crea@goat
