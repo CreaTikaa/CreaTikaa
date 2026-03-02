@@ -1,8 +1,8 @@
 ```zsh
-neofetch
+> neofetch
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/8da81bbb-40b1-42c8-95ba-4470f9c34bbf" alt="Frieren" width="320" /> 
+<img align="left" src="https://github.com/user-attachments/assets/8da81bbb-40b1-42c8-95ba-4470f9c34bbf" alt="Frieren" width="520" /> 
 
 ```yaml
 crea@goat
