@@ -1,6 +1,10 @@
 ```zsh
 > neofetch
 ```
+
+<br>
+<br>
+<br>
 <img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="360" />
 
 ```yaml
