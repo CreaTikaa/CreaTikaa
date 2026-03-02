@@ -1,7 +1,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="460" />
+<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="360" />
 
 ```yaml
 crea@goat
@@ -23,5 +23,3 @@ Games you should play : TLOU, NieR, Counter Strike
 Games you shouldn't play : The Coffin of Andy and Leyley 
 Discord : creaa_
 ```
-
-<img align="center" src="https://github.com/user-attachments/assets/4ce45cc7-3949-4305-a040-c0f0785fb559" alt="Ellie" width="auto" />
