@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/e26e4675-d9f1-4220-9e33-db6196f4c1ea" alt="Frieren" width="520" />
+<img align="left" src="https://github.com/user-attachments/assets/e26e4675-d9f1-4220-9e33-db6196f4c1ea" alt="Frieren" width="320" />
  
 
 ```yaml
