@@ -2,13 +2,12 @@
 > neofetch
 ```
 
-<img align="left" src="https://github.com/user-attachments/assets/213da13b-ce38-4481-b8da-006393456744" alt="Rest well Reze" width="400" />
-
 ```yaml
 crea@goat
 -------------------------
 OS : Debian 12 x86_64
-Term & Shell : kitty / zsh
+Term : kitty
+Shell : zsh
 Pronouns : The/Goat
 Location : France
 Things i'm almost decent at : Forensics, Steg, Misc, Rev, Osint
@@ -19,5 +18,8 @@ Hobbies : Sports & Esports, Hitting people and being hit with human bones (muay 
 Games you should play : TLOU, NieR, Counter Strike
 Games you shouldn't play : The Coffin of Andy and Leyley 
 Discord : creaa_
+```
 
+
+<img align="left" src="https://github.com/user-attachments/assets/f3f5cf7f-cc60-47d0-b570-91ecabc79b5c" alt="BAD APPLE !!!!" width="400" />
 
