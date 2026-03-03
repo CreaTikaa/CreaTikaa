@@ -18,8 +18,7 @@ Term : kitty
 Shell : zsh
 Pronouns : The/Goat
 Location : France
-Things i'm almost decent at : Forensics, Steg, Misc, Rev, Osint
-Things i suck at : Pwn, Prog challs
+What you will find here : CTF Write-ups & some random projects
 
   Cool facts :
 Things you should watch : V for Vendetta, Andor (both seasons, peak) Blue Giant, Frieren, Steins;Gate
