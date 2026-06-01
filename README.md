@@ -21,10 +21,10 @@ Location : France
 What you will find here : CTF Write-ups & some random projects
 
   Cool facts :
-Things you should watch : V for Vendetta, Andor (both seasons, peak) Blue Giant, Frieren, Steins;Gate
+Things you should watch : Blue Giant, V for Vendetta, Andor, Frieren, Steins;Gate, Summer Time Rendering
 Things you should read : Goodbye Eri, Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de. & Solo Leveling (hype moments & aura)
-Hobbies : Sports & Esports, Hitting people and being hit with human bones (muay thai)
-Games you should play : TLOU, NieR, Counter Strike
+Hobbies : Sports & Esports, Hitting people and being hit with human bones (martial arts)
+Games you should play : TLOU, NieR, The Finals (or Counter Strike if you have friends)
 Games you shouldn't play : The Coffin of Andy and Leyley 
 Discord : creaa_
 ```
